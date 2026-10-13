@@ -24,3 +24,7 @@ See the screenshots folder.
 
 ## Skills shown
 SPL, log analysis, Sysmon, alert creation, dashboards, detection tuning, MITRE ATT&CK mapping.
+
+![Dashboard] (SOC%20LAB.png)
+
+![Alert](SOC%20LAB%2ALERT.png)
